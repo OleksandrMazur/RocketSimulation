@@ -1,4 +1,4 @@
-package enums;
+package Locations;
 
 public enum Destination {
     SPACE(1, "Space"), MOON(384, "Moon"),

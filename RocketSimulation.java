@@ -1,5 +1,3 @@
-import enums.Destination;
-
 public class RocketSimulation {
     public static void main(String[] args) {
         Assembly RocketX = new Assembly();

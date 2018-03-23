@@ -1,5 +1,4 @@
-import interfaces.DistanceCalc;
-import enums.Destination;
+import Locations.Destination;
 
 public class Cockpit extends Rocket implements DistanceCalc {
     public void calculateDist(int distance, int power, int mass) {
